@@ -1,3 +1,7 @@
+var https = require('https');
+
+console.log('I did it!');
+
 var options = {
   host: 'www.example.org',
   path: '/'
